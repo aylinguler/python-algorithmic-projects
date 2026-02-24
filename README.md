@@ -1,2 +1,43 @@
 # python-algorithmic-projects
-Collection of algorithmic and logic-based Python projects
+# 🧠 Algorithmic & Logic-Based Projects (Python)
+
+This repository contains structured Python implementations focused on algorithmic thinking and logical problem solving.
+
+---
+
+## 📌 Included Projects
+
+### Arithmetic Formatter
+Formats arithmetic problems vertically and optionally computes the result.
+
+Concepts:
+- String manipulation
+- Input validation
+- List handling
+
+---
+
+### Time Calculator
+Adds durations to a starting time and handles day transitions correctly.
+
+Concepts:
+- Modular arithmetic
+- Conditional logic
+- String parsing
+
+---
+
+### Right Truncatable Numbers
+Generates and validates right truncatable prime numbers.
+
+Concepts:
+- Prime number checking
+- Iterative truncation
+- Number theory basics
+
+---
+
+## ▶️ How to Run
+- Ensure you have Python 3 installed.
+- For the Rigth_Truncable_Numbers, place a file named numbers.txt in the same directory as the script.
+- Run any script via the terminal: python name_of_script.py
