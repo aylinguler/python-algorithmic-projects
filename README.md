@@ -7,17 +7,21 @@ This repository contains structured Python implementations focused on algorithmi
 
 ## 📌 Included Projects
 
-### Arithmetic Formatter
-Formats arithmetic problems vertically and optionally computes the result.
+🧩 Sudoku Solver (Backtracking Algorithm)
 
-Concepts:
-- String manipulation
-- Input validation
-- List handling
+Developed an object-oriented Sudoku solver in Python using recursive backtracking and constraint validation to solve standard 9×9 puzzles. Implemented row, column, and subgrid checks to ensure rule compliance.
+
+Key Concepts:
+- Recursion
+- Backtracking
+- 2D matrix manipulation
+- Algorithm design
+- Object-oriented programming
 
 ---
 
-### Time Calculator
+🕒 Time Calculator
+
 Adds durations to a starting time and handles day transitions correctly.
 
 Concepts:
@@ -27,7 +31,7 @@ Concepts:
 
 ---
 
-### Right Truncatable Numbers
+🔢 Right Truncatable Numbers
 Generates and validates right truncatable prime numbers.
 
 Concepts:
