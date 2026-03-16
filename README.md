@@ -37,6 +37,19 @@ The program systematically tests possible number placements while enforcing Sudo
 
 ---
 
+### 📐 Polygon Area Calculator
+
+This project implements a simple geometry tool in Python that models **rectangles and squares** using object-oriented programming. It calculates properties such as **area, perimeter, and diagonal length**, and demonstrates **class inheritance** by extending a `Rectangle` class into a `Square` while maintaining equal side lengths.
+
+**Key Concepts**
+- Object-Oriented Programming (OOP)
+- Class inheritance
+- Method overriding
+- Basic geometry calculations
+- String-based visualization
+
+---
+
 ### 🕒 Time Calculator
 
 A Python program that calculates time durations by adding a given duration to a starting time, correctly handling **AM/PM changes and day transitions**.
